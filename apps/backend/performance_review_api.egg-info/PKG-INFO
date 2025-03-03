@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: performance-review-api
+Version: 0.1
+Requires-Python: >=3.8
+Requires-Dist: fastapi
+Requires-Dist: sqlalchemy
+Requires-Dist: pytest
+Requires-Dist: httpx
+Requires-Dist: pydantic
+Requires-Dist: alembic
+Requires-Dist: PyJWT
+Dynamic: requires-dist
+Dynamic: requires-python
